@@ -12,16 +12,14 @@ const dashboard = {
       title: 'Dashboard',
       type: 'item',
       url: '/dashboard',
-      icon: icons.DashboardOutlined,
-      breadcrumbs: false
+      icon: icons.DashboardOutlined
     },
     {
       id: 'register1',
       title: 'Tasks',
       type: 'item',
       url: '/tasks',
-      icon: icons.ProfileOutlined,
-      breadcrumbs: false
+      icon: icons.ProfileOutlined
     }
   ]
 };
